@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  background: #797973;
+  background: #01011e;
   color: black;
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
@@ -40,11 +40,11 @@ h2 {
   font-weight: 900;
   letter-spacing: -0.04em;
   text-transform: uppercase;
-  color: #000;
+  color: #5914c8;
 }
 .content > p {
   margin: 0;
-  color: #999;
+  color: #211458;
   font-size: 0.9rem;
   text-transform: uppercase;
   letter-spacing: 0.15em;
@@ -122,7 +122,7 @@ nav {
   align-items: center;
   margin-bottom: 48px;
   padding: 16px 24px;
-  background: #fff;
+  background: #e0e0e0;
   border: 1px solid #e0e0e0;
   border-radius: 12px;
 }
@@ -154,7 +154,7 @@ nav h1 {
 }
 .nav-li a:hover {
   background: #01011e;
-  color: #fff;
+  color: #01011e;
 }
 /* Portfolio styles */
 .content h1 {
@@ -185,7 +185,7 @@ nav h1 {
   padding: 16px 20px;
   font-size: 1.1rem;
   font-weight: 500;
-  background: #fff;
+  background: #01011e;
   border: 1px solid #e0e0e0;
   border-radius: 12px;
   transition: background 0.25s ease, color 0.25s ease, transform 0.25s ease;
